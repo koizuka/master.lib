@@ -1,0 +1,15 @@
+.gitattributes
+
+# Text
+*       text=auto
+
+# Diff
+*       diff=cp932
+
+
+*.txt text working-tree-encoding=CP932
+*.asm text working-tree-encoding=CP932
+*.inc text working-tree-encoding=CP932
+*.c text working-tree-encoding=CP932
+*.cpp text working-tree-encoding=CP932
+*.h text working-tree-encoding=CP932
