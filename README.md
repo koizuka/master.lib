@@ -11,13 +11,12 @@ master.libとは、MS-DOS の NEC PC-98x1 / IBM PC/AT 環境で動作する、�
 
 完全なLZH配布ファイルはこちら https://www.koizuka.jp/~koizuka/master.lib/ にあります。
 
-オリジナルの説明は [master.txt](master.txt) にあります。ただし現在はシェアウェアの送金は受け付けていません。
+オリジナルの説明は [master.txt](master.txt) にあります。当時はシェアウェアでしたが、現在はシェアウェアの送金は受け付けていません。現在はソースのパスワードを解除し、公開しています。
 
 更新履歴は [master.his](doc/master.his) にあります。
 
-ソースはパスワードを解除し、公開しています。
 
-このファイル以外の文字コードはすべてSHIFT_JISでエンコードされています。
+このREADME.md 以外のファイルの文字コードはすべてSHIFT_JISでエンコードされています。
 
 ## このリポジトリのパス構成
 (MTSRC023.LZH, MTMAN023.LZHから抜粋)
